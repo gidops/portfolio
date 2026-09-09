@@ -17,7 +17,7 @@ export const profile = {
   email: "ugorjigideon@outlook.com",
   socials: {
     github: "https://github.com/gidops",
-    linkedin: "https://www.linkedin.com/in/gideonugorji",
+    linkedin: "https://www.linkedin.com/in/gideon-ugorji-23147630a",
   },
   resumeUrl: "", // e.g. "/resume.pdf" — drop the file in /public and set this
 };
