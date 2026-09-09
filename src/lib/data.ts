@@ -16,7 +16,7 @@ export const profile = {
   location: "Abuja, Nigeria",
   email: "ugorjigideon@outlook.com",
   socials: {
-    github: "https://github.com/gideonugorji",
+    github: "https://github.com/gidops",
     linkedin: "https://www.linkedin.com/in/gideonugorji",
   },
   resumeUrl: "", // e.g. "/resume.pdf" — drop the file in /public and set this
